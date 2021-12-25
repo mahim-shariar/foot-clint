@@ -1,0 +1,42 @@
+.footer-color{
+    background-color: black;
+    color: white;
+}
+.img-width{
+    max-width: 49%;
+}
+.p-3{
+    padding-top: 0rem !important;
+    padding-bottom: 10px !important;
+}
+.form-control{
+    width: 68% !important;
+}
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+    color: rgb(96 96 96 / 60%) !important;
+
+}
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: #202020;
+}
+.carousel-indicators button {
+    height: 10px !important ;
+    width: 10px !important ;
+    border: 1px !important ;
+    border-radius: 10px !important ;
+}
+.carousel-control-prev-icon{
+    border: 1px solid #818181;
+    padding: 18px;
+}
+.carousel-control-next-icon{
+    border: 1px solid #818181;
+    padding: 18px;
+}
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: #1d1e1e !important;
+}
+.text-color-p{
+    font-weight: 600;
+    color: #202020;
+}

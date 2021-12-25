@@ -1,0 +1,21 @@
+.product-collection{
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 30px !important ;
+    position: relative;
+    z-index: 1;
+    background-repeat: no-repeat;
+    margin-top: 30px !important;
+}
+
+.image{
+    position: relative;
+
+}
+.details{
+    right: 0;
+    position: absolute;
+    top: 40px;
+    left: 0;
+}
+

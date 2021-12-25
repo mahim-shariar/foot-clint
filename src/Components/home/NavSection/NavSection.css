@@ -1,0 +1,22 @@
+.text-color{
+    color: #bf131e;
+}
+.text-color1{
+    color:#98ed3b ;
+}
+.text-color2{
+    color: #db3719;
+}
+.carousel-caption{
+    top: 42%;
+    transform: translateY(-50%);
+}
+.text{
+        font-family: Garamond, serif;
+        font-size: 12px;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    .css-o2w69a-MuiTypography-root{
+        font-size: 7rem !important;
+    }
